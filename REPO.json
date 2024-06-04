@@ -21,5 +21,37 @@
     "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.0.2.6/Penumbra.zip",
     "DownloadLinkUpdate": "https://github.com/ffxivchan/krpenum/releases/download/beta/penum.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
+  },
+    {
+    "Author": "Ottermandias",
+    "Name": "Glamourer",
+    "Punchline": "Change and save appearance of players.",
+    "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
+    "Tags": [
+      "Appearance",
+      "Glamour",
+      "Race",
+      "Outfit",
+      "Armor",
+      "Clothes",
+      "Skins",
+      "Customization",
+      "Design",
+      "Character"
+    ],
+    "InternalName": "Glamourer",
+    "AssemblyVersion": "1.2.0.9",
+    "TestingAssemblyVersion": "1.2.0.9",
+    "RepoUrl": "https://github.com/Ottermandias/Glamourer",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1,
+    "LastUpdate": 1618608322,
+    "DownloadLinkInstall": "https://github.com/ffxivchan/krpenum/releases/download/beta/Glamourer.zip",
+    "DownloadLinkUpdate": "https://github.com/ffxivchan/krpenum/releases/download/beta/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/ffxivchan/krpenum/releases/download/beta/Glamourer.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   }
 ]
