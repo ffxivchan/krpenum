@@ -21,7 +21,7 @@
     "DownloadLinkUpdate": "https://github.com/ffxivchan/krpenum/releases/download/beta/highfps.zip",
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
   },
-     {
+    {
     "Name": "Penumbra",
     "Punchline": "Runtime mod loader and manager.",
     "Description": "Runtime mod loader and manager.",
