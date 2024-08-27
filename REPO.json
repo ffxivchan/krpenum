@@ -36,7 +36,7 @@
     "DownloadCount": 0,
     "LastUpdate": 0,
     "LoadPriority": 69420,
-    "LoadRequiredState": 2,
+    "LoadRequiredState": 0,
     "LoadSync": true,
     "DownloadLinkInstall": "https://github.com/ffxivchan/krpenum/releases/download/beta/penum.zip",
     "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.0.2.6/Penumbra.zip",
